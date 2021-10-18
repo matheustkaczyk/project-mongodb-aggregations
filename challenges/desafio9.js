@@ -7,7 +7,7 @@ db.trips.aggregate(
             birthYear: { $exists: true },
           },
           {
-            birthYear: { $nin: [""] },
+            birthYear: { $ne: "" },
           },
         ],
       },

@@ -1,5 +1,7 @@
 Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi construir queries agragadas complexas no mongoDB.
 
+Data de entrega: 18/10/2021
+
 # Habilidades
 - Executar buscas complexas no banco mongoDB
 - Usar os operadores de aggregation para fazer uma pipeline  
